@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Vinay Rawat
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Full Stack Development and Machine Learning
+
 
 
 <!---
