@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Vinay Rawat
+- 👋 Hi, I'm Vinayy Rawat
 - 👀 I’m interested in Technology
 
 
