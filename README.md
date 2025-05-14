@@ -20,9 +20,7 @@
   </a>
   <a href="https://github.com/vinayrawat058">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <a href="https://github.com/vinayrawat058">
-  <img src="https://views.igorkowalczyk.dev/api/badge/vinayrawat058?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
-</a>
+
 </p>
 
 ---
