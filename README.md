@@ -1,7 +1,7 @@
-<!-- Banner (replace with your own if you wish) -->
+<!-- Banner (replace with your own if you wish) 
 <p align="center">
   <img src="https://i.imgur.com/8Km9tLL.gif" alt="Welcome Banner" width="600"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinay+Rawat;MS+CS+@+IU+Bloomington;Backend+%7C+Cloud+%7C+AI+%7C+Full+Stack+Dev;Batman+by+night%2C+Super+Saiyan+by+choice!" alt="Typing SVG" />
