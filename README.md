@@ -102,7 +102,6 @@ GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, Je
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinayrawat058&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayrawat058&theme=radical" alt="Vinay's GitHub Streak" height="180"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayrawat058&layout=compact&theme=radical" alt="Top Languages"/>
@@ -110,12 +109,9 @@ GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, Je
 
 ---
 
-## 🎨 Hobbies & Fun Facts
+##  Fun Fact
 
-- 🏋️‍♂️ Fitness enthusiast
-- 🎮 Gamer
-- 📚 Sci-fi reader
-- 🦇 Sometimes Batman, sometimes a Super Saiyan!
+- 🦇 I am Batman, sometimes a Super Saiyan!
 
 ---
 
