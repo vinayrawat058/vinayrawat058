@@ -12,7 +12,7 @@
 
 <p align="center">
   <p align="center">
-  <a href="https://linkedin.com/in/vinayrawat" target="_blank">
+  <a href="https://www.linkedin.com/in/vinay-rawat-801b641a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:vinay.rawat058@gmail.com">
