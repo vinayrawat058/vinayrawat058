@@ -9,11 +9,6 @@
 
 <h3 align="center">A passionate Software Developer from United States </h3>
 
-##  Fun Fact
-
-- 🦇 I am Batman, sometimes a Super Saiyan!
-
----
 
 <p align="center">
   <a href="https://linkedin.com/in/vinayrawat" target="_blank">
@@ -41,6 +36,12 @@
 - 💬 Ask me about **Java, REST APIs, Backend, Cloud, and Full Stack Development**
 - 📫 Reach me: [vinay.rawat058@gmail.com](mailto:vinay.rawat058@gmail.com) | [LinkedIn](https://linkedin.com/in/vinayrawat)
 - ⚡ Fun fact: I am Batman or sometimes a Super Saiyan!
+
+---
+
+##  Fun Fact
+
+- 🦇 I am Batman, sometimes a Super Saiyan!
 
 ---
 
