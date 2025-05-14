@@ -7,7 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinay+Rawat;MS+CS+@+IU+Bloomington" alt="SVG" />
 </p>
 
-<h3 align="center">A passionate Software Developer from United States 🇺🇸</h3>
+<h3 align="center">A passionate Software Developer from United States </h3>
+
+##  Fun Fact
+
+- 🦇 I am Batman, sometimes a Super Saiyan!
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/vinayrawat" target="_blank">
@@ -109,11 +115,6 @@ GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, Je
 
 ---
 
-##  Fun Fact
-
-- 🦇 I am Batman, sometimes a Super Saiyan!
-
----
 
 ## 🤝 Let's Connect!
 
