@@ -34,7 +34,7 @@
 - 👨‍💻 **Ex-Software Engineer @ PTC Software India** (Java, Spring Boot, Angular, Postgres, TypeScript)
 - 🌱 Currently learning **React with TypeScript** and exploring **Microservices & System Design**
 - 💬 Ask me about **Java, REST APIs, Backend, Cloud, and Full Stack Development**
-- 📫 Reach me: [vinay.rawat058@gmail.com](mailto:vinay.rawat058@gmail.com) | [LinkedIn](https://linkedin.com/in/vinayrawat)
+- 📫 Reach me: [vinay.rawat058@gmail.com](mailto:vinay.rawat058@gmail.com) | [LinkedIn](https://linkedin.com/in/vinay-rawat-801b641a5/)
 - ⚡ Fun fact: I am Batman or sometimes a Super Saiyan!
 
 ---
