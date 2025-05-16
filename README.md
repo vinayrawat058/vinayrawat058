@@ -29,9 +29,6 @@
 
 - 🎓 **MS in Computer Science** @ Indiana University Bloomington (Aug 2024 - Dec 2025), GPA: 3.6/4  
   *Relevant coursework: Applied Algorithms, Software Engineering, Applied Machine Learning, Engineering Cloud Computing*
-- 👨‍🎓 **B.E. in Computer Engineering** @ University of Pune (Aug 2018 - May 2022), GPA: 3.8/4  
-  *Database Systems, OOP, Computer Networks, Web Development, Data Science, Risk Management*
-- 👨‍💻 **Ex-Software Engineer @ PTC Software India** (Java, Spring Boot, Angular, Postgres, TypeScript)
 - 🌱 Currently learning **React with TypeScript** and exploring **Microservices & System Design**
 - 💬 Ask me about **Java, REST APIs, Backend, Cloud, and Full Stack Development**
 - 📫 Reach me: [vinay.rawat058@gmail.com](mailto:vinay.rawat058@gmail.com) | [LinkedIn](https://linkedin.com/in/vinay-rawat-801b641a5/)
