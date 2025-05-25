@@ -94,25 +94,6 @@ GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, Je
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayrawat058&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Vinay's GitHub Trophies"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayrawat058&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayrawat058&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
