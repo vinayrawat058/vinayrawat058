@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **MS in Computer Science** @ Indiana University Bloomington (Aug 2024 - Dec 2025), GPA: 3.6/4  
+- 🎓 **MS in Computer Science** @ Indiana University Bloomington (Aug 2024 - May 2026), GPA: 3.6/4  
   *Relevant coursework: Applied Algorithms, Software Engineering, Applied Machine Learning, Engineering Cloud Computing*
 - 🌱 Currently learning **React with TypeScript** and exploring **Microservices & System Design**
 - 💬 Ask me about **Java, REST APIs, Backend, Cloud, and Full Stack Development**
