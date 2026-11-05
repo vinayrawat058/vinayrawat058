@@ -28,9 +28,8 @@
 ## 🚀 About Me
 
 - 🎓 **MS in Computer Science** @ Indiana University Bloomington (Aug 2024 - May 2026), GPA: 3.6/4  
-  *Relevant coursework: Applied Algorithms, Software Engineering, Applied Machine Learning, Engineering Cloud Computing*
-- 🌱 Currently learning **React with TypeScript** and exploring **Microservices & System Design**
-- 💬 Ask me about **Java, REST APIs, Backend, Cloud, and Full Stack Development**
+- 🌱 Currently working with **AI Agents** and building my own.
+- 💬 Ask me about *REST APIs, Backend, Cloud, and Full Stack Development**
 - 📫 Reach me: [vinay.rawat058@gmail.com](mailto:vinay.rawat058@gmail.com) | [LinkedIn](https://linkedin.com/in/vinay-rawat-801b641a5/)
 - ⚡ Fun fact: I am Batman or sometimes a Super Saiyan!
 
