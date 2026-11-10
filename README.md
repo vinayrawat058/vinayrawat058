@@ -27,7 +27,7 @@
 
 - 🎓 **MS in Computer Science** @ Indiana University Bloomington (Aug 2024 - May 2026)
 
-- 🌱 Currently working with **AI Agents** and building my own using **LangGraph**, **Claude Code**, and **Cursor**.
+- 🌱 Currently working with **AI Agents** and building my own using **LangGraph**.
 
 - 💡 Deeply curious about **Distributed Systems** and passionate about building scalable, high-performance features.
 
