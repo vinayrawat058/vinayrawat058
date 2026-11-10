@@ -60,39 +60,6 @@
 **Developer Tools:**  
 GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, JetStream2, Excel, SaaS products
 
----
-
-## 💼 Experience
-
-**Software Engineer, PTC Software India Pvt. Ltd.** *(Jul 2022 – Jul 2024)*  
-- Designed high-performance REST APIs in Spring Boot for the One Codebeamer Project, improving system responsiveness by **75%**.
-- Developed Java infrastructure for legacy data conversion, ensuring **zero data loss** and seamless migration.
-- Built reusable Angular components, accelerating feature implementation by **20%**.
-- Engineered robust API-frontend data exchange and authored **200+ JUnit test cases**, boosting maintainability by **15%**.
-- Resolved **40+ critical defects** for automotive clients, deploying hotfixes within 24 hours and maintaining **99.9% uptime**.
-
-**Software Engineer Intern, PTC Software India Pvt. Ltd.** *(Aug 2021 – Jun 2022)*  
-- Validated data integrity for migrations using **15+ complex SQL scripts** (Oracle).
-- Optimized backup processes by **80%** via Python scripting and query tuning.
-
----
-
-## 🌟 Projects
-
-**🎨 Generating Artistic Paintings using GAN**  
-*Python, React, AWS, REST API, Django*  
-- Developed and deployed a CycleGAN-based deep learning model to transform images into artistic styles inspired by Indian painters.
-- Created a full-stack web platform for **image-to-image translation** with high-precision outputs.
-- Trained on **3,000+ images** and achieved **85%+ accuracy** in style transfer.
-- Hosted backend on AWS for scalable, reliable performance.
-
-**⏱️ Real-Time Event Hosting Platform**  
-*Python, Django, Postgres, Heroku, Payment APIs*  
-- Built a platform enabling **500+ users** to manage events; reduced event creation time by **40%**.
-- Integrated payment gateway and deployed on Heroku, serving **1,500+ attendees** with **99% uptime** and **30% cost savings**.
-
----
-
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
