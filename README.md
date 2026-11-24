@@ -9,18 +9,6 @@
 
 <h3 align="center">A passionate, curious and responsible Software Developer </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinay-rawat-801b641a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vinay.rawat058@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/vinayrawat058">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -70,7 +58,3 @@ LangGraph &nbsp;•&nbsp; Claude Code &nbsp;•&nbsp; AI Agents & Prompt Enginee
 Cursor, GitHub, Postman, VS Code, Eclipse, IntelliJ, Jira, Slack, Docker, Kubernetes, JetStream2, Excel, SaaS products
 
 ---
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</p>
